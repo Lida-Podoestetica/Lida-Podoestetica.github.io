@@ -154,16 +154,20 @@ footer{
   /* align-self: flex-end; */
   /* bottom: 0; */
   background-color: aquamarine;
-  justify-content:center;
-  align-items: center;
-  padding-right: 25px;
-  align-items: center;
+   justify-content:center;
+  align-items: center; 
+  /* padding-right: 25px;  */
+  align-items:center;
 }
-
-footer a{
-  font-weight: bold;
+.pie{
+ display: flex;
+ flex-wrap:wrap;
+  width: 90%;
+  justify-content: center;
+align-items: center;
+  font-size: 14px;
+    
 }
-
 
 
 img, picture, video, iframe, figure {
