@@ -80,8 +80,9 @@ body{
   margin-top: 30px;
   justify-content: center;
   align-items: center;
+  background-image: url("https://www.medex.pe/images/podologia.jpg");
 
-    background-image: url("https://promedicas.mx/cuernavaca/wp-content/uploads/2021/06/podologia-especialidad.jpg");   
+  /* background-image: url("https://promedicas.mx/cuernavaca/wp-content/uploads/2021/06/podologia-especialidad.jpg");    */
   
    background-position:right;
    background-size: 100%;
